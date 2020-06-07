@@ -1,5 +1,5 @@
 # cars
-This is a temporary repository and is used for training purpose only.
+This is a temporary repository and is used for self training purpose only.
 
 ---
 title: "speed_and_distance_report"
